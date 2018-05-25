@@ -1,0 +1,7 @@
+.mic {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 10em;
+  padding: 30px 30px;
+}
